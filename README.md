@@ -15,19 +15,19 @@ Armazenamento: 20GB
 * ⚡ Painel WEB - A.I ⚡ x86/x64bits / ARM
 
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Balieiropk1/install/bad/ubuinst3.sh)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Balieiropk1/install/main/ubuinst3.sh)
 ```
 
 * 🐱‍💻 Instalação
 * ⚡ Painel WEB - A.I ⚡ DB CONECTA 4g
 ```
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Balieiropk1/install/bad/bancoconecta.sh)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Balieiropk1/install/main/bancoconecta.sh)
 ```
 
 * ♻️ Sincronização
 * ⚡ Painel WEB - A.I ⚡x86/x64bits
 ```
-wget http://raw.githubusercontent.com/Balieiropk1/install/bad/SincAI.sh && chmod +x SincAI.sh && dos2unix SincAI.sh && ./SincAI.sh
+wget http://raw.githubusercontent.com/Balieiropk1/install/main/SincAI.sh && chmod +x SincAI.sh && dos2unix SincAI.sh && ./SincAI.sh
 ```
 
 * ♻️ Sincronizando
